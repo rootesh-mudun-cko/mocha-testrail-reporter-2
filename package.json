@@ -1,0 +1,25 @@
+{
+  "name": "mocha-testrail-reporter-2",
+  "version": "1.0.0",
+  "description": "A testrail reporter for Mocha.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mocha",
+    "reporter",
+    "testrail"
+  ],
+  "author": "rootesh-mudun-cko",
+  "license": "ISC",
+  "dependencies": {
+    "@dlenroc/testrail": "^1.6.1",
+    "colors": "^1.4.0",
+    "fs-extra": "^10.1.0",
+    "lilconfig": "^2.0.5",
+    "lodash": "^4.17.21",
+    "mocha": "^9.2.2"
+  },
+  "devDependencies": {}
+}
